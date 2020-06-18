@@ -7,5 +7,5 @@
   "minimumCoreVersion": "0.5.0",
   "compatibleCoreVersion": "0.6.2",
   "url": "https://gitlab.com/jackkerouac/animated-spell-effects",
-   "manifest": "https://gitlab.com/jackkerouac/animated-spell-effects/module.json"
+   "manifest": "https://raw.githubusercontent.com/jackkerouac/animated-spell-effects/master/module.json"
 }
