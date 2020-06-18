@@ -1,0 +1,11 @@
+{
+  "name": "adnimated-spell-effects",
+  "title": "Animated Spell Effects - A group of webm files to animate your spells.",
+  "description": "A small, but growing collection of animated spell are for use with various VTT's in the top-down/overhead perspective. All files are in transparent webm format. Files will be located in your Data\modules\spell-effects folder. If you like my work, consider saying thanks on Discord: jackkerouac#0624.",
+  "author": "Jack Kerouac",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.5.0",
+  "compatibleCoreVersion": "0.6.2",
+  "url": "https://gitlab.com/jackkerouac/animated-spell-effects",
+   "manifest": "https://gitlab.com/jackkerouac/animated-spell-effects/module.json"
+}
