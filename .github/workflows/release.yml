@@ -28,7 +28,7 @@ jobs:
           echo Version2: ${{ steps.get_version.outputs.VERSION2 }}
           echo Download url: ${{ steps.upload-release-asset.browser_download_url }}
           sed -i '/"version":/c\  "version": "${{ steps.get_version.outputs.VERSION2 }}",' module.json
-          sed -i '/"download":/c\  "download": "https://github.com/datdamnzotz/FoundryVTT-DnD-Audio-Bundle-Hammer-Home/releases/download//${{ steps.get_version.outputs.VERSION }}/${{ steps.get_version.outputs.VERSION }}.zip"' module.json
+          sed -i '/"download":/c\  "download": "https://github.com/jackkerouac/animated-spell-effects/releases/download//${{ steps.get_version.outputs.VERSION }}/${{ steps.get_version.outputs.VERSION }}.zip"' module.json
           cat module.json
       - name: Zip project # This would actually build your project, using zip for an example artifact
         run: 7z a -tzip ${{ steps.get_version.outputs.VERSION }}.zip . -mx0 -xr!.git -xr!.github
