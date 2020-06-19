@@ -8,6 +8,6 @@ Preview/Download: https://gitlab.com/jackkerouac/animated-spell-effects
 
 Requires FVTT version 0.5.0 or higher.
 
-Use this manifest link in Foundry VTT.
+Use this manifest link in Foundry VTT:
 
 https://raw.githubusercontent.com/jackkerouac/animated-spell-effects/master/module.json
