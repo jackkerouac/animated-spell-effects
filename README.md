@@ -24,6 +24,4 @@ use a module like MESS to add the animation to ALL fields by type:
 
 Very small sample of the effects (black backgrounds are transparent in FoundryVTT):
 
-<video width="400" height="200">
-<source src="https://github.com/jackkerouac/animated-spell-effects/raw/master/sample.webm" type="video/x-webm"></source>
-</video>
+<img src="https://github.com/jackkerouac/animated-spell-effects/raw/master/image03.png" alt="Spell Effect Sample" width="600" height="600">
