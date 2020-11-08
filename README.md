@@ -13,11 +13,11 @@ Use this manifest link in Foundry VTT:
 https://raw.githubusercontent.com/jackkerouac/animated-spell-effects/master/module.json
 
 # Instructions
-To use these animations, you need to either open a spell and on the details page use the Template Texture field to apply the animation, or
+To use these animations, you need to <a href="https://github.com/Moerill/mess">use a module like MESS</a> to open a spell and on the details page and use the Template Texture field to apply the animation, or
 
 <img src="https://github.com/jackkerouac/animated-spell-effects/raw/master/image01.png" alt="Spell Effect Template 01" width="539" height="648">
 
-use a module like MESS to add the animation to ALL fields by type:
+add the animation to ALL fields by type:
 
 <img src="https://github.com/jackkerouac/animated-spell-effects/raw/master/image02.png" alt="Spell Effect Template 02" width="580" height="135">
 <img src="https://github.com/jackkerouac/animated-spell-effects/raw/master/image03.png" alt="Spell Effect Template 03" width="610" height="660">
