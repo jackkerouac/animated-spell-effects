@@ -3,10 +3,10 @@
   "title": "Animated Spell Effects",
   "description": "More than 350 (and growing!) animated effects for spells for use with various VTT's in the top-down/overhead perspective. All files are in transparent webm format.",
   "author": "Jack Kerouac",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "minimumCoreVersion": "0.5.5",
   "compatibleCoreVersion": "0.7.5",
   "url": "https://github.com/jackkerouac/animated-spell-effects",
   "manifest": "https://raw.githubusercontent.com/jackkerouac/animated-spell-effects/master/module.json",
-  "download": "https://github.com/jackkerouac/animated-spell-effects/releases/download/v0.5.3/v0.5.3.zip"
+  "download": "https://github.com/jackkerouac/animated-spell-effects/releases/download/v0.5.4/v0.5.4.zip"
 }
