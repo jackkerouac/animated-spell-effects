@@ -34,6 +34,6 @@
   "minimumCoreVersion": "0.5.5",
   "compatibleCoreVersion": "0.7.9",
   "url": "https://github.com/jackkerouac/animated-spell-effects",
-  "manifest": "https://raw.githubusercontent.com/jackkerouac/animated-spell-effects/master/module.json",
+  "manifest": "https://github.com/jackkerouac/animated-spell-effects/releases/download/0.6.6/module.json",
   "download": "https://github.com/jackkerouac/animated-spell-effects/releases/download/v0.6.5/v0.6.5.zip"
 }
