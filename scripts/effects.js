@@ -2719,5 +2719,335 @@ label: "JKAEC",
       speed: 0,
       author: "Jack Kerouac",
     },
+    {
+      label: "LIGHTNING - Portal",
+      file: "modules/animated-spell-effects/spell-effects/lightning/electricity_portal_CIRCLE_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "LIGHTNING - Ray 01",
+      file: "modules/animated-spell-effects/spell-effects/lightning/electricity_RAY_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "LIGHTNING - Ray 02",
+      file: "modules/animated-spell-effects/spell-effects/lightning/electricity_RAY_02.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "LIGHTNING - Blast 01",
+      file: "modules/animated-spell-effects/spell-effects/lightning/lightning_blast_multicolour_RAY_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "LIGHTNING - Blast 02",
+      file: "modules/animated-spell-effects/spell-effects/lightning/lightning_blast_RAY_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "LIGHTNING - Blast 03",
+      file: "modules/animated-spell-effects/spell-effects/lightning/lightning_blast_RAY_02.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "LIGHTNING - Blue 01",
+      file: "modules/animated-spell-effects/spell-effects/lightning/lightning_blue_RAY_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "LIGHTNING - Blue 02",
+      file: "modules/animated-spell-effects/spell-effects/lightning/lightning_blue_RECTANGLE_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "LIGHTNING - Explosion",
+      file: "modules/animated-spell-effects/spell-effects/lightning/lightning_explosion_CIRCLE_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "LIGHTNING - Flash 01",
+      file: "modules/animated-spell-effects/spell-effects/lightning/lightning_flash_RECTANGLE_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "LIGHTNING - Flash 02",
+      file: "modules/animated-spell-effects/spell-effects/lightning/lightning_flash_SQUARE_03.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "LIGHTNING - Green 01",
+      file: "modules/animated-spell-effects/spell-effects/lightning/lightning_green_RAY_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "LIGHTNING - Green 02",
+      file: "modules/animated-spell-effects/spell-effects/lightning/lightning_green_RECTANGLE_02.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "LIGHTNING - M/C",
+      file: "modules/animated-spell-effects/spell-effects/lightning/lightning_multicolour_RAY_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
   ],
+  {
+    label: "LIGHTNING - Purple 01",
+    file: "modules/animated-spell-effects/spell-effects/lightning/lightning_purple_RAY_01.webm",
+    scale: {
+      x: 1.0,
+      y: 1.0,
+    },
+    angle: 0,
+    anchor: {
+      x: 0.5,
+      y: 0.5,
+    },
+    speed: 0,
+    author: "Jack Kerouac",
+  },
+  {
+    label: "LIGHTNING - Purple 02",
+    file: "modules/animated-spell-effects/spell-effects/lightning/lightning_purple_RECTANGLE_01.webm",
+    scale: {
+      x: 1.0,
+      y: 1.0,
+    },
+    angle: 0,
+    anchor: {
+      x: 0.5,
+      y: 0.5,
+    },
+    speed: 0,
+    author: "Jack Kerouac",
+  },
+  {
+    label: "LIGHTNING - Raibow",
+    file: "modules/animated-spell-effects/spell-effects/lightning/lightning_rainbowRAY_01.webm",
+    scale: {
+      x: 1.0,
+      y: 1.0,
+    },
+    angle: 0,
+    anchor: {
+      x: 0.5,
+      y: 0.5,
+    },
+    speed: 0,
+    author: "Jack Kerouac",
+  },
+  {
+    label: "LIGHTNING - Red 01",
+    file: "modules/animated-spell-effects/spell-effects/lightning/lightning_red_RAY_01.webm",
+    scale: {
+      x: 1.0,
+      y: 1.0,
+    },
+    angle: 0,
+    anchor: {
+      x: 0.5,
+      y: 0.5,
+    },
+    speed: 0,
+    author: "Jack Kerouac",
+  },
+  {
+    label: "LIGHTNING - Red 02",
+    file: "modules/animated-spell-effects/spell-effects/lightning/lightning_red_RECTANGLE_01.webm",
+    scale: {
+      x: 1.0,
+      y: 1.0,
+    },
+    angle: 0,
+    anchor: {
+      x: 0.5,
+      y: 0.5,
+    },
+    speed: 0,
+    author: "Jack Kerouac",
+  },
+  {
+    label: "LIGHTNING - Slam",
+    file: "modules/animated-spell-effects/spell-effects/lightning/lightning_slam_RAY_01.webm",
+    scale: {
+      x: 1.0,
+      y: 1.0,
+    },
+    angle: 0,
+    anchor: {
+      x: 0.5,
+      y: 0.5,
+    },
+    speed: 0,
+    author: "Jack Kerouac",
+  },
+  {
+    label: "LIGHTNING - Yellow 01",
+    file: "modules/animated-spell-effects/spell-effects/lightning/lightning_yellow_RAY_01.webm",
+    scale: {
+      x: 1.0,
+      y: 1.0,
+    },
+    angle: 0,
+    anchor: {
+      x: 0.5,
+      y: 0.5,
+    },
+    speed: 0,
+    author: "Jack Kerouac",
+  },
+  {
+    label: "LIGHTNING - Yellow 02",
+    file: "modules/animated-spell-effects/spell-effects/lightning/lightning_yellow_RECTANGLE_01.webm",
+    scale: {
+      x: 1.0,
+      y: 1.0,
+    },
+    angle: 0,
+    anchor: {
+      x: 0.5,
+      y: 0.5,
+    },
+    speed: 0,
+    author: "Jack Kerouac",
+  },
 };
