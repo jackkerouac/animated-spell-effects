@@ -15,12 +15,14 @@
   "conflicts": [
     
   ],
-  "esmodules": [
-    
-  ],
   "scripts": [
-    
-  ],
+    "./scripts/settings.js",   
+    "./scripts/windowpopup.js"   
+],
+"type": "module",
+"esmodules": [
+    "./scripts/loadEffects.js"
+],
   "styles": [
     
   ],
