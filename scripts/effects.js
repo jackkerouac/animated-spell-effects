@@ -2525,6 +2525,66 @@ label: "JKAEC",
       author: "Jack Kerouac",
     },
     {
+      label: "GUNSHOTS - 15ft",
+      file: "modules/animated-spell-effects/spell-effects/gunshots/gunshot_15ft_1000x400.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "GUNSHOTS - 30ft",
+      file: "modules/animated-spell-effects/spell-effects/gunshots/gunshot_30ft_1600x400.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "GUNSHOTS - 45ft",
+      file: "modules/animated-spell-effects/spell-effects/gunshots/gunshot_45ft_2200x400.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "GUNSHOTS - 45ft",
+      file: "modules/animated-spell-effects/spell-effects/gunshots/gunshot_60ft_2800x400.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
       label: "ICE - Ball",
       file: "modules/animated-spell-effects/spell-effects/ice/ice_ball_RAY_01.webm",
       scale: {
@@ -2929,125 +2989,1565 @@ label: "JKAEC",
       speed: 0,
       author: "Jack Kerouac",
     },
+    {
+      label: "LIGHTNING - Purple 01",
+      file: "modules/animated-spell-effects/spell-effects/lightning/lightning_purple_RAY_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "LIGHTNING - Purple 02",
+      file: "modules/animated-spell-effects/spell-effects/lightning/lightning_purple_RECTANGLE_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "LIGHTNING - Raibow",
+      file: "modules/animated-spell-effects/spell-effects/lightning/lightning_rainbowRAY_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "LIGHTNING - Red 01",
+      file: "modules/animated-spell-effects/spell-effects/lightning/lightning_red_RAY_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "LIGHTNING - Red 02",
+      file: "modules/animated-spell-effects/spell-effects/lightning/lightning_red_RECTANGLE_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "LIGHTNING - Slam",
+      file: "modules/animated-spell-effects/spell-effects/lightning/lightning_slam_RAY_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "LIGHTNING - Yellow 01",
+      file: "modules/animated-spell-effects/spell-effects/lightning/lightning_yellow_RAY_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "LIGHTNING - Yellow 02",
+      file: "modules/animated-spell-effects/spell-effects/lightning/lightning_yellow_RECTANGLE_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Arrow 01",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_arrow_RAY_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Arrow 02",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_arrow_RAY_02.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Arrow 03",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_arrow_RAY_03.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Arrow 04",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_arrow_RAY_04.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Arrow 05",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_arrow_RAY_05.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Arrow 06",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_arrow_RAY_06.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Ball 01",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_ball_CIRCLE_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Ball 02",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_ball_CIRCLE_02.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Ball 03",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_ball_CIRCLE_03.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Ball 04",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_ball_CIRCLE_04.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Ball 05",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_ball_CIRCLE_05.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Ball 06",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_ball_CIRCLE_06.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Ball 07",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_ball_CIRCLE_07.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Ball 08",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_ball_CIRCLE_08.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Ball 09",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_ball_CIRCLE_09.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Ball 11",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_ball_CIRCLE_10.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Beam 01",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_beam_RAY_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Beam 02",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_beam_RAY_02.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Beam 03",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_beam_RAY_03.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Beam 04",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_beam_RAY_04.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Beam 05",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_beam_RAY_05.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Beam 06",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_beam_RAY_06.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Blast 01",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_blast_RAY_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Blast 02",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_blast_RAY_02.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Circle",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_circle_CIRCLE_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Dust 01",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_dust_SQUARE_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Dust 02",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_dust_SQUARE_02.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Dust 03",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_dust_SQUARE_03.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Dust 04",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_dust_SQUARE_04.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Dust 05",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_dust_SQUARE_05.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Explosion 01",
+      file: "modules/animated-spell-effects/spell-effects/magic/explosion_CIRCLE_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Explosion 02",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_explosion_CIRCLE_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Explosion 03",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_explosion_CIRCLE_02.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Explosion 04",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_explosion_CIRCLE_03.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Explosion 05",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_explosion_CIRCLE_04.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Explosion 06",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_explosion_CIRCLE_05.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Explosion 07",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_explosion_CIRCLE_06.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Explosion 08",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_explosion_CIRCLE_08.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Fire 01",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_fire_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Fire 02",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_fire_02.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - ForceField 01",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_forcefield_SQUARE_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - ForceField 02",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_forcefield_SQUARE_02.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Impact",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_impact_CIRCLE_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Missle 01",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_missle_RAY_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Missle 02",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_missle_RAY_02.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Missle 03",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_missle_RAY_03.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Missle 04",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_missle_RAY_04.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Missle 05",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_missle_RAY_05.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Missle 06",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_missle_RAY_06.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Missle 07",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_missle_RAY_07.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Missle 08",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_missle_RAY_08.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Missle 09",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_missle_RAY_09.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Missle 10",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_missle_RAY_10.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Missle 11",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_missle_RAY_11.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Portal 01",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_portal_CIRCLE_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Portal 02",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_portal_CIRCLE_02.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Portal 03",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_portal_CIRCLE_03.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shield 01",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shield_CIRCLE_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shield 02",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shield_CIRCLE_02.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shield 03",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shield_CIRCLE_03.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shield 04",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shield_CIRCLE_04.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shield 05",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shield_CIRCLE_05.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shieldsquare 01",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shield_equip_SQUARE_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shieldsquare 02",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shield_equip_SQUARE_02.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shieldsquare 03",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shield_equip_SQUARE_03.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shieldsquare 04",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shield_equip_SQUARE_04.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shieldsquare 05",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shield_equip_SQUARE_05.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shieldoval 01",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shield_SQUARE_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shieldoval 02",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shield_SQUARE_02.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shieldoval 03",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shield_SQUARE_03.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shieldoval 04",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shield_SQUARE_04.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shockwave 01",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shockwave_CIRCLE_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shockwave 02",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shockwave_CIRCLE_02.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shockwave 03",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shockwave_CIRCLE_03.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shockwave 04",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shockwave_CIRCLE_04.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shockwave 05",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shockwave_CIRCLE_05.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shockwave 06",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shockwave_CIRCLE_06.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shockwave 07",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shockwave_CIRCLE_07.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shockwave 08",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shockwave_CIRCLE_08.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shockwave 09",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shockwave_CIRCLE_09.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shockwave 10",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shockwave_CIRCLE_10.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shockwave 11",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shockwave_CIRCLE_11.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Shockwave 12",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_shockwave_CIRCLE_12.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Sparks 01",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_sparks_SQUARE_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Sparks 02",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_sparks_SQUARE_02.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Sparks 03",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_sparks_SQUARE_03.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Spiral",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_spiral_RAY_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Strange",
+      file: "modules/animated-spell-effects/spell-effects/magic/shield_strange_SQUARE_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Triple",
+      file: "modules/animated-spell-effects/spell-effects/magic/triple_CIRCLE_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Wild 01",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_wild_CIRCLE_01.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Wild 02",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_wild_CIRCLE_02.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Wild 03",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_wild_CIRCLE_03.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Wild 04",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_wild_CIRCLE_04.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Wild 05",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_wild_CIRCLE_05.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Wild 06",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_wild_CIRCLE_06.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
+    {
+      label: "MAGIC - Wild 07",
+      file: "modules/animated-spell-effects/spell-effects/magic/magic_wild_RAY_02.webm",
+      scale: {
+        x: 1.0,
+        y: 1.0,
+      },
+      angle: 0,
+      anchor: {
+        x: 0.5,
+        y: 0.5,
+      },
+      speed: 0,
+      author: "Jack Kerouac",
+    },
   ],
-  {
-    label: "LIGHTNING - Purple 01",
-    file: "modules/animated-spell-effects/spell-effects/lightning/lightning_purple_RAY_01.webm",
-    scale: {
-      x: 1.0,
-      y: 1.0,
-    },
-    angle: 0,
-    anchor: {
-      x: 0.5,
-      y: 0.5,
-    },
-    speed: 0,
-    author: "Jack Kerouac",
-  },
-  {
-    label: "LIGHTNING - Purple 02",
-    file: "modules/animated-spell-effects/spell-effects/lightning/lightning_purple_RECTANGLE_01.webm",
-    scale: {
-      x: 1.0,
-      y: 1.0,
-    },
-    angle: 0,
-    anchor: {
-      x: 0.5,
-      y: 0.5,
-    },
-    speed: 0,
-    author: "Jack Kerouac",
-  },
-  {
-    label: "LIGHTNING - Raibow",
-    file: "modules/animated-spell-effects/spell-effects/lightning/lightning_rainbowRAY_01.webm",
-    scale: {
-      x: 1.0,
-      y: 1.0,
-    },
-    angle: 0,
-    anchor: {
-      x: 0.5,
-      y: 0.5,
-    },
-    speed: 0,
-    author: "Jack Kerouac",
-  },
-  {
-    label: "LIGHTNING - Red 01",
-    file: "modules/animated-spell-effects/spell-effects/lightning/lightning_red_RAY_01.webm",
-    scale: {
-      x: 1.0,
-      y: 1.0,
-    },
-    angle: 0,
-    anchor: {
-      x: 0.5,
-      y: 0.5,
-    },
-    speed: 0,
-    author: "Jack Kerouac",
-  },
-  {
-    label: "LIGHTNING - Red 02",
-    file: "modules/animated-spell-effects/spell-effects/lightning/lightning_red_RECTANGLE_01.webm",
-    scale: {
-      x: 1.0,
-      y: 1.0,
-    },
-    angle: 0,
-    anchor: {
-      x: 0.5,
-      y: 0.5,
-    },
-    speed: 0,
-    author: "Jack Kerouac",
-  },
-  {
-    label: "LIGHTNING - Slam",
-    file: "modules/animated-spell-effects/spell-effects/lightning/lightning_slam_RAY_01.webm",
-    scale: {
-      x: 1.0,
-      y: 1.0,
-    },
-    angle: 0,
-    anchor: {
-      x: 0.5,
-      y: 0.5,
-    },
-    speed: 0,
-    author: "Jack Kerouac",
-  },
-  {
-    label: "LIGHTNING - Yellow 01",
-    file: "modules/animated-spell-effects/spell-effects/lightning/lightning_yellow_RAY_01.webm",
-    scale: {
-      x: 1.0,
-      y: 1.0,
-    },
-    angle: 0,
-    anchor: {
-      x: 0.5,
-      y: 0.5,
-    },
-    speed: 0,
-    author: "Jack Kerouac",
-  },
-  {
-    label: "LIGHTNING - Yellow 02",
-    file: "modules/animated-spell-effects/spell-effects/lightning/lightning_yellow_RECTANGLE_01.webm",
-    scale: {
-      x: 1.0,
-      y: 1.0,
-    },
-    angle: 0,
-    anchor: {
-      x: 0.5,
-      y: 0.5,
-    },
-    speed: 0,
-    author: "Jack Kerouac",
-  },
 };
