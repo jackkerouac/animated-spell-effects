@@ -13,7 +13,7 @@ More than 350 (and growing!) animated effects for spells for use with various VT
 # Jack Kerouac's Animated Spell Effects
 More than 350 (and growing!) animated effects for spells for use with various VTT's in the top-down/overhead perspective. All files are in transparent webm format. In Foundry VTT, fiiles will be located in your "Data\modules\animated-spell-effects\spell-effects" folder. If you like my work, consider saying thanks on Discord: jackkerouac#0624.
 
-Preview/Download: https://gitlab.com/jackkerouac/animated-spell-effects
+Preview/Download: https://github.com/jackkerouac/animated-spell-effects
 
 Requires FVTT version 0.5.5 or higher.
 
