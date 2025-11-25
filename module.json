@@ -2,6 +2,9 @@
   "title": "Jack Kerouac's Animated Spell Effects",
   "description": "<p>More than 350 (and growing!) animated effects for spells for use with various VTT's in the top-down/overhead perspective. All files are in transparent webm format.</p>",
   "version": "#UNOFFICIAL#",
+  "esmodules": [
+    "scripts/sequencer-db.js"
+  ],
   "url": "https://github.com/jackkerouac/animated-spell-effects",
   "manifest": "https://raw.githubusercontent.com/jackkerouac/animated-spell-effects/master/module.json",
   "download": "https://github.com/jackkerouac/animated-spell-effects/releases/download/v0.6.5/v0.6.5.zip",
