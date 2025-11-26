@@ -12,9 +12,7 @@ const SPELL_EFFECTS_DIR = path.join(__dirname, '..', 'spell-effects'); // Assumi
 
 const SHAPES = ["CIRCLE", "SQUARE", "RAY", "CONE", "RECTANGLE"];
 
-function generateDatabase() {
-    const PATH = "modules/animated-spell-effects/spell-effects/"
-
+function generateDatabase(PATH) {
     let db = {};
     const categories = fs.readdirSync(SPELL_EFFECTS_DIR, { withFileTypes: true })
                          .filter(dirent => dirent.isDirectory())
@@ -42,13 +40,16 @@ function generateDatabase() {
 
 
 function updateSequencerDb() {
+    const MODULE_ID = "animated-spell-effects"
+    const PATH = `modules/${MODULE_ID}/spell-effects/`
+
     // Generate Current Database
-    const generatedDb = generateDatabase();
+    const generatedDb = generateDatabase(PATH);
     const dbString = JSON.stringify(generatedDb, null, 4);
 
     const newContent = `Hooks.once('sequencer.ready', () => {
         const DATABASE = ${dbString};
-        Sequencer.Database.registerEntries('animated-spell-effects', DATABASE);
+        Sequencer.Database.registerEntries('${MODULE_ID}', DATABASE);
 });`
 
     fs.writeFileSync(SEQUENCER_DB_PATH, newContent, 'utf8');
